@@ -3,6 +3,8 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=kevinrieger) ![Years Badge](https://badges.pufler.dev/years/kevinrieger)
 
+![Header Image](https://github.com/kevinrieger/kevinrieger/blob/main/header.png)
+
 ### 👨🏻‍💻 About Me
  
 I'm a designer and musician that codes.
